@@ -1,0 +1,26 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size:15px;
+    color:black;
+}
+
+body{
+    background-size:cover;
+}
+
+#songname{
+    font-size: 25px;
+    color: whitesmoke;
+}
+
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 25px;
+    box-shadow:3px 3px 3px cornsilk;
+    margin-top: 50px;
+}
